@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kamchatka-cards/static/css/main.61abc6ba.chunk.css",
+    "main.js": "/kamchatka-cards/static/js/main.fe0ab467.chunk.js",
+    "main.js.map": "/kamchatka-cards/static/js/main.fe0ab467.chunk.js.map",
+    "runtime-main.js": "/kamchatka-cards/static/js/runtime-main.fd33b76b.js",
+    "runtime-main.js.map": "/kamchatka-cards/static/js/runtime-main.fd33b76b.js.map",
+    "static/js/2.493ac27f.chunk.js": "/kamchatka-cards/static/js/2.493ac27f.chunk.js",
+    "static/js/2.493ac27f.chunk.js.map": "/kamchatka-cards/static/js/2.493ac27f.chunk.js.map",
+    "static/js/3.3751af90.chunk.js": "/kamchatka-cards/static/js/3.3751af90.chunk.js",
+    "static/js/3.3751af90.chunk.js.map": "/kamchatka-cards/static/js/3.3751af90.chunk.js.map",
+    "index.html": "/kamchatka-cards/index.html",
+    "static/css/main.61abc6ba.chunk.css.map": "/kamchatka-cards/static/css/main.61abc6ba.chunk.css.map",
+    "static/js/2.493ac27f.chunk.js.LICENSE.txt": "/kamchatka-cards/static/js/2.493ac27f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd33b76b.js",
+    "static/js/2.493ac27f.chunk.js",
+    "static/css/main.61abc6ba.chunk.css",
+    "static/js/main.fe0ab467.chunk.js"
+  ]
+}
